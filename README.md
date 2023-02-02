@@ -1,2 +1,2 @@
-# echo "... tekst ..." > README.md
-sjekk omdirigeringsoperatøren >>
+#Fibonacci utregning
+F(0) = 0
