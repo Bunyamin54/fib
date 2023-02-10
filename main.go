@@ -1,18 +1,14 @@
 package main
 
+import (
+	"new/fib"
 
-
-import { "new/Fib"
-
-import "fmt"
-
-}
+	"fmt"
+)
 
 func main() {
 
 	final := fib.Fib(10)
 	fmt.Println(final)
 
-
 }
-
